@@ -1,16 +1,29 @@
-### Hi there 👋
+## Hola, me llamo Santiago y este es mi gitHub
 
-<!--
-**Corocottax/Corocottax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Estos son mis conocimientos actuales sobre programación: 
 
-Here are some ideas to get you started:
+- Javascript
+- Java
+- Sqlite
+- Css && scss
+- Html
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Estos son mis conocimientos y cualidades generales: 
+
+- Inglés: B1
+- Montaje y mantenimiento de equipos informáticos
+- Redes sociales
+- Mente fría en momentos complicados
+- Empatía y ganas de trabajar en equipo
+
+### 📜 Estos son mis títulos:
+
+- Técnico en sistemas microinformáticos y redes (SMR) //grado medio
+- Técnico superior en desarrollo de aplicaciones multiplataforma (DAM) //grado superior
+
+### 🎭 Y ya basta de cosas serias y aburridas, aquí algunos de mis gustos personales y hobbies:
+
+- Me gustan los videojuegos y el mundo de los Esports
+- Me gusta mucho la música, de pequeño tocaba la guitarra pero lo que mejor se me da es escucharla :)
+- Gran parte de mi tiempo me gusta invertirlo en youtube viendo cualquier video.
+- Suelo ser bastante curioso así que veo videos de todo tipo, sé de cosas que nunca pensé que sabría.
