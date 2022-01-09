@@ -1,6 +1,6 @@
 ## Hola, me llamo Santiago y este es mi gitHub
 
-![Calamardo el de bob esponja dandose un bailoteo](https://64.media.tumblr.com/9999f372d031bbc60499d6dd93b1ccc4/tumblr_okq34s9rQ81tgzy56o1_1280.gifv)
+![Calamardo el de bob esponja dandose un bailoteo](https://c.tenor.com/iNpoS6srIXkAAAAd/waneella-pixel-art.gif)
 
 ### 💻 Estos son mis conocimientos actuales sobre programación: 
 
