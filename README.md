@@ -17,7 +17,7 @@
 - Installation and maintenance of computer equipment
 - Social networks
 
-### 📜 And finally this are my titles:
+### 📜 And finally this are my titulations:
 
 - Técnico en sistemas microinformáticos y redes (SMR) //grado medio
 - Técnico superior en desarrollo de aplicaciones multiplataforma (DAM) //grado superior
