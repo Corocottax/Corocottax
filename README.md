@@ -2,30 +2,24 @@
 
 <img src="https://64.media.tumblr.com/61b42677879a0be38fb2779459b0f456/tumblr_nzv60uVwxB1uo5tbio1_1280.gifv" alt="gif de fondo">
 
-<div align="center" style="text-decoration = none">
-
 ### 💻 My knowledge: 
 
-  <ul>
-    <li>Javascript</li>
-    <li>Java</li>
-    <li>Sqlite</li>
-    <li>Html</li>
-    <li>Node.js</li>
-    <li>English level: B1</li>
-  </ul>
+- Javascript
+- Java
+- qlite
+- Html
+- Node.js
+- English level: B1
 
 ### 💡 I also know: 
 
-Installation and maintenance of computer equipment
-Social networks
+- Installation and maintenance of computer equipment
+- Social networks
 
 ### 📜 And finally this are my titulations:
 
-Técnico en sistemas microinformáticos y redes (SMR) //grado medio
-Técnico superior en desarrollo de aplicaciones multiplataforma (DAM) //grado superior
-  
- </div>
+- Técnico en sistemas microinformáticos y redes (SMR) //grado medio
+- Técnico superior en desarrollo de aplicaciones multiplataforma (DAM) //grado superior
 
 <div align="center"> 
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Corocottax&show_icons=true&hide_border=true" alt="My stats" />
