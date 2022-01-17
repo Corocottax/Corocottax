@@ -31,6 +31,8 @@ Técnico superior en desarrollo de aplicaciones multiplataforma (DAM) //grado su
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Corocottax&show_icons=true&locale=en&layout=compact" alt="My languages" />
 </div>
 
+</br>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Corocottax&label=Profile%20views&color=0e75b6&style=flat" alt="My Profile" />
 </div>
