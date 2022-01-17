@@ -1,6 +1,10 @@
-## Hi! I'm Corocottax, ur wellcome to my GitHub, please enjoy it 😍!
+<div align="center"><img width="250px" src="https://i.imgur.com/99BZ8IU.gif" /></div>
 
-![gif de fondo](https://64.media.tumblr.com/61b42677879a0be38fb2779459b0f456/tumblr_nzv60uVwxB1uo5tbio1_1280.gifv)
+<h1 align="center"> Hi! I'm Corocottax, ur wellcome to my GitHub, please enjoy it 😍!</h1>
+
+<img src="https://64.media.tumblr.com/61b42677879a0be38fb2779459b0f456/tumblr_nzv60uVwxB1uo5tbio1_1280.gifv" alt="gif de fondo">
+
+<div align="center">
 
 ### 💻 My knowledge: 
 
@@ -21,6 +25,15 @@
 
 - Técnico en sistemas microinformáticos y redes (SMR) //grado medio
 - Técnico superior en desarrollo de aplicaciones multiplataforma (DAM) //grado superior
+  
+ </div>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Corocottax&show_icons=true&hide_border=true)
+<div align="center"> 
+    ![Github stats](https://github-readme-stats.vercel.app/api?username=Corocottax&show_icons=true&hide_border=true)
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lethamburn&show_icons=true&locale=en&layout=compact" alt="lethamburn" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Corocottax&label=Profile%20views&color=0e75b6&style=flat" alt="My Profile" />
+</div>
 
