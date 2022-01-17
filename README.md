@@ -1,4 +1,4 @@
-<h1 align="center"> Hi! I'm Corocottax, ur wellcome to my GitHub,  enjoy it 😊!</h1>
+<h1 align="center"> Hi! I'm Corocottax and this is my GitHub 😊!</h1>
 <h3 align="center">I love video games, video edition, music and sports.</h3>
 
 <img src="https://64.media.tumblr.com/61b42677879a0be38fb2779459b0f456/tumblr_nzv60uVwxB1uo5tbio1_1280.gifv" alt="gif de fondo">
