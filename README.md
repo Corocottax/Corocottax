@@ -21,6 +21,10 @@
 - Técnico en sistemas microinformáticos y redes (SMR) //grado medio
 - Técnico superior en desarrollo de aplicaciones multiplataforma (DAM) //grado superior
 
+</br>
+- 📫 How to reach me: antoniorosalesmartinez90@gmail.com
+- </br>
+
 <div align="center"> 
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Corocottax&show_icons=true&hide_border=true" alt="My stats" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Corocottax&show_icons=true&locale=en&layout=compact" alt="My languages" />
