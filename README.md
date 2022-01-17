@@ -16,20 +16,16 @@
     MongoDB
     Git
     Photoshop
+    SonyVegas
     AndroidStudio
     Linux
     MySql
     UnrealEngine
 
-    💡 I also know: 
+    💡 I also know about: 
 
     Installation and maintenance of computer equipment
     Social networks
-
-    📜 And finally this are my titulations:
-
-    Técnico en sistemas microinformáticos y redes (SMR) //grado medio
-    Técnico superior en desarrollo de aplicaciones multiplataforma (DAM) //grado superior
     
 </div>
 
