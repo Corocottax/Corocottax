@@ -22,3 +22,5 @@
 - Técnico en sistemas microinformáticos y redes (SMR) //grado medio
 - Técnico superior en desarrollo de aplicaciones multiplataforma (DAM) //grado superior
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=Corocottax&show_icons=true&hide_border=true)
+
