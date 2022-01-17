@@ -3,6 +3,33 @@
 
 <img src="https://64.media.tumblr.com/61b42677879a0be38fb2779459b0f456/tumblr_nzv60uVwxB1uo5tbio1_1280.gifv" alt="gif de fondo">
 
+<div style="list-style-type: none">
+
+    <h3>  💻 My knowledge: </h3>
+    
+    <ul>
+        
+        <li> Javascript </li>
+        <li> Java </li>
+        <li> Sqlite </li>
+        <li> Html </li>
+        <li> Node.js </li>
+        <li> English level: B1 </li>
+        
+    </ul>
+
+### 💡 I also know: 
+
+- Installation and maintenance of computer equipment
+- Social networks
+
+### 📜 And finally this are my titulations:
+
+- Técnico en sistemas microinformáticos y redes (SMR) //grado medio
+- Técnico superior en desarrollo de aplicaciones multiplataforma (DAM) //grado superior
+
+
+</div>
 ### 💻 My knowledge: 
 
 - Javascript
