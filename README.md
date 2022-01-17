@@ -6,13 +6,14 @@
 
 ### 💻 My knowledge: 
 
-Javascript
-Java
-Sqlite
-Css && scss
-Html
-Node.js
-English level: B1
+  <ul>
+    <li>Javascript</li>
+    <li>Java</li>
+    <li>Sqlite</li>
+    <li>Html</li>
+    <li>Node.js</li>
+    <li>English level: B1</li>
+  </ul>
 
 ### 💡 I also know: 
 
