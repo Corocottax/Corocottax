@@ -22,7 +22,9 @@
 - Técnico superior en desarrollo de aplicaciones multiplataforma (DAM) //grado superior
 
 </br>
-### 📫 How to reach me: santicorocottax@gmail.com
+
+<h2> 📫 How to reach me: santicorocottax@gmail.com </h2>
+
 </br>
 
 <div align="center"> 
