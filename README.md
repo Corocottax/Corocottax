@@ -27,7 +27,6 @@ Técnico superior en desarrollo de aplicaciones multiplataforma (DAM) //grado su
  </div>
 
 <div align="center"> 
-    ![Github stats]()
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Corocottax&show_icons=true&hide_border=true" alt="My stats" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Corocottax&show_icons=true&locale=en&layout=compact" alt="My languages" />
 </div>
