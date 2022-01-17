@@ -5,24 +5,24 @@
 
 <div align="center" style="list-style-type: none">
 
-    ### 💻 My knowledge: 
+    💻 My knowledge: 
 
-    - Javascript
-    - Java
-    - qlite
-    - Html
-    - Node.js
-    - English level: B1
+    Javascript
+    Java
+    qlite
+    Html
+    Node.js
+    English level: B1
 
-    ### 💡 I also know: 
+    💡 I also know: 
 
-    - Installation and maintenance of computer equipment
-    - Social networks
+    Installation and maintenance of computer equipment
+    Social networks
 
-    ### 📜 And finally this are my titulations:
+    📜 And finally this are my titulations:
 
-    - Técnico en sistemas microinformáticos y redes (SMR) //grado medio
-    - Técnico superior en desarrollo de aplicaciones multiplataforma (DAM) //grado superior
+    Técnico en sistemas microinformáticos y redes (SMR) //grado medio
+    Técnico superior en desarrollo de aplicaciones multiplataforma (DAM) //grado superior
     
 </div>
 
