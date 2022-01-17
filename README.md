@@ -23,7 +23,7 @@
 
 </br>
 
-<h2> 📫 How to reach me: santicorocottax@gmail.com </h2>
+<h3 align="center"> 📫 How to reach me: santicorocottax@gmail.com </h3>
 
 </br>
 
