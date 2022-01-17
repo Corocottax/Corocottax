@@ -3,24 +3,28 @@
 
 <img src="https://64.media.tumblr.com/61b42677879a0be38fb2779459b0f456/tumblr_nzv60uVwxB1uo5tbio1_1280.gifv" alt="gif de fondo">
 
-### 💻 My knowledge: 
+<div style="list-style-type: none">
 
-- Javascript
-- Java
-- qlite
-- Html
-- Node.js
-- English level: B1
+    ### 💻 My knowledge: 
 
-### 💡 I also know: 
+    - Javascript
+    - Java
+    - qlite
+    - Html
+    - Node.js
+    - English level: B1
 
-- Installation and maintenance of computer equipment
-- Social networks
+    ### 💡 I also know: 
 
-### 📜 And finally this are my titulations:
+    - Installation and maintenance of computer equipment
+    - Social networks
 
-- Técnico en sistemas microinformáticos y redes (SMR) //grado medio
-- Técnico superior en desarrollo de aplicaciones multiplataforma (DAM) //grado superior
+    ### 📜 And finally this are my titulations:
+
+    - Técnico en sistemas microinformáticos y redes (SMR) //grado medio
+    - Técnico superior en desarrollo de aplicaciones multiplataforma (DAM) //grado superior
+    
+</div>
 
 </br>
 
