@@ -13,6 +13,13 @@
     Html
     Node.js
     English level: B1
+    MongoDB
+    Git
+    Photoshop
+    AndroidStudio
+    Linux
+    MySql
+    UnrealEngine
 
     💡 I also know: 
 
